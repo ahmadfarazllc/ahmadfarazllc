@@ -18,7 +18,7 @@ My mission? **Bridging the gap between technology & user-centric design** to cre
 ## 🛠️ Tech Stack  
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)  
-[![Solidity](https://skillicons.dev/icons/Solidity.svg)]  
+[![Solidity](https://skillicons.dev/icons/Solidity.svg)](https://skillicons.dev)
 ![Ink!](https://img.shields.io/badge/Ink!-E34F26.svg?style=flat-square&logo=ink&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
