@@ -19,7 +19,7 @@ My mission? **Bridging the gap between technology & user-centric design** to cre
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Solidity,rust,figma,ai,js,ts,nodejs,py,react,webflow" />
+    <img src="https://skillicons.dev/icons?i=Solidity,rust,figma,ai,js,ts,nodejs,py,react,webflow,nextjs,mangodb,java,flutter,express" />
   </a>
 </p>
 
