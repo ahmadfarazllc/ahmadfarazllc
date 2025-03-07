@@ -29,5 +29,10 @@ I **thrive in collaborative environments** where **creativity meets technology**
 
 📩 **Let's build the future together!** 🚀 
 
-[![LinkedIn](https://www.linkedin.com/in/ahmadfarazllc)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmadfarazllc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
+  </a>
+</p>
+
 
