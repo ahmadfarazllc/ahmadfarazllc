@@ -6,7 +6,7 @@
 ## 🔗 About Me  
 As an **innovative entrepreneur and blockchain developer**, I leverage my **Stanford-backed expertise** in **Blockchain & Digital Currencies** to build **secure, efficient smart contracts** using **Rust & Ink! and Solidity**.  
 
-My mission? **Bridging the gap between technology & user-centric design** to create **seamless digital experiences** in Web3, AI, and no-code solutions.  
+My mission? **Bridging the gap between technology & user-centric design** to create **seamless digital experiences** in Web3, AI, No-code solutions and Quantum computing.  
 
 ### 🔥 What I Do  
 ✨ **Smart Contract Development** – Rust, Ink!, Solidity, Web3.js  
