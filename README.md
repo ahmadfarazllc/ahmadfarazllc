@@ -26,6 +26,7 @@ My mission? **Bridging the gap between technology & user-centric design** to cre
 </p>
 
 
+
 🎓 **Education**
 **Blockchain and Digital Currencies**
 **Stanford University** | Apr 2021 – Jul 2023
@@ -44,6 +45,7 @@ Developed foundational skills in **computer science, programming, and system man
 
 
 
+
 🧠 **Quantum Computing**
 **Mid-level proficiency** in **IBM Qiskit** and **Microsoft Q#**.
 
@@ -52,7 +54,8 @@ Actively exploring **Post-Quantum Cryptography (PQC)** libraries in **Rust and G
 Passionate about integrating **quantum computing** with **blockchain** and **AI** for future innovations.
 
 
-🏆** Honors & Awards**
+
+🏆 **Honors & Awards**
 **Blockchain Hackathon Winner** | Aug 2022
 
 **Top Rated Freelancer on Upwork** | 2023
