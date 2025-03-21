@@ -1,7 +1,7 @@
 ## Hi! My name is Ahmad Faraz 👋
 
-🚀 **Entrepreneur | Blockchain Developer | UI/UX Designer | AI & No-Code Innovator | Quantum Computing**  
-🔹 **Rust, Ink & Solidity Expert | Start-up Enthusiast | Smart Contract Architect**  
+🚀 **Blockchain Developer | UI/UX Designer | AI & No-Code Innovator | Quantum Computing**  
+🔹 **Rust, Ink & Solidity | QisKit & Q# | Smart Contract Architect**  
 
 ## 🔗 About Me  
 
