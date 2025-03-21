@@ -3,10 +3,14 @@
 🚀 **Entrepreneur | Blockchain Developer | UI/UX Designer | AI & No-Code Innovator | Quantum Computing**  
 🔹 **Rust, Ink & Solidity Expert | Start-up Enthusiast | Smart Contract Architect**  
 
+## 🔗 About Me  
+
+As an **innovative entrepreneur and blockchain developer**, I leverage my **Stanford-backed expertise** in **Blockchain & Digital Currencies** to build secure, **efficient smart contracts** using **Rust, Ink!, and Solidity**.  
+
 My mission? **Bridging the gap between technology & user-centric design** to create **seamless digital experiences** in Web3, AI, No-code solutions, and Quantum computing. 
 
 
-### 🔥 What I Do  
+## 🔥 What I Do  
 ✨ **Smart Contract Development** – Rust, Ink!, Solidity, Web3.js  
 🖌️ **UI Design** – Figma, Adobe XD, User Flow Optimization  
 ⚡ **AI & No-Code Automation** – Webflow, Bubble, Zapier, Airtable  
@@ -47,9 +51,6 @@ Actively exploring **Post-Quantum Cryptography (PQC)** libraries in **Rust and G
 
 Passionate about integrating **quantum computing** with **blockchain** and **AI** for future innovations.  
 
-## 🔗 About Me  
-
-As an **innovative entrepreneur and blockchain developer**, I leverage my **Stanford-backed expertise** in **Blockchain & Digital Currencies** to build secure, **efficient smart contracts** using **Rust, Ink!, and Solidity**.  
  
 
 ## 🏆 Honors & Awards  
