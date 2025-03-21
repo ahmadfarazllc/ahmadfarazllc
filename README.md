@@ -60,7 +60,7 @@ Passionate about integrating **quantum computing** with **blockchain** and **AI*
 
 ## 🌍 Let's Connect & Innovate!  
 
-I **thrive in collaborative environments** where **creativity meets technology**. Always excited to **explore new innovations in Web3, AI, and No-Code** while working with like-minded **builders, founders, and visionaries**!  
+I **thrive in collaborative environments** where **creativity meets technology**. Always excited to **explore new innovations in Web3, Quantum Computing, AI, and No-Code** while working with like-minded **builders, founders, and visionaries**!  
 
 📩 **Let's build the future together!** 🚀  
 
